@@ -1,9 +1,5 @@
 ### Hi there 👋
-
-<!--
-**DiegoHRamirez/DiegoHRamirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Hi, I'm Diego!
+I'm Diego!
 
 I'm a software engineer with years of programming experience. I've worked with Ruby, JavaScript, TypeScript, Go, Python and Java.
 I'm proficient in AWS, React, Express, Docker, and other web technologies. 
@@ -18,4 +14,7 @@ You can reach me at:
 * [dhernandez2448@gmail.com](mailto:dhernandez2448@gmail.com)
 * [diegohernandezramirez.dev](https://diegohernandezramirez.dev)
 * [LinkedIn](https://www.linkedin.com/in/diego-hernandez-ramirez-023a00273/)
+
+<!--
+**DiegoHRamirez/DiegoHRamirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
