@@ -8,7 +8,7 @@ Most recently, I created Symphony, a cloud-native, open-source framework for add
 
 Most recently, I built [Symphony](https://symphony-framework.github.io), a cloud-native, open-source framework for adding real-time collaboration functionality to web applications.
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts, redis, rabbitmq,html,aws,docker,express,git,go,mongodb,nodejs,postgres,react,redux,ruby,tailwind)](https://symphony-framework.github.io)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,redis,rabbitmq,html,aws,docker,express,git,go,mongodb,nodejs,postgres,react,redux,ruby,tailwind)](https://symphony-framework.github.io)
 
 You can reach me at:
 * [dhernandez2448@gmail.com](mailto:dhernandez2448@gmail.com)
