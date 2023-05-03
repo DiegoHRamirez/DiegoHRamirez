@@ -1,5 +1,4 @@
-### Hi there 👋
-I'm Diego!
+### Hi, I'm Diego!
 
 I'm a software engineer with years of programming experience. I've worked with Ruby, JavaScript, TypeScript, Go, Python and Java.
 I'm proficient in AWS, React, Express, Docker, and other web technologies. 
