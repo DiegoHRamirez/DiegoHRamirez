@@ -12,7 +12,6 @@ Most recently, I built [Symphony](https://symphony-framework.github.io), a cloud
 You can reach me at:
 * [dhernandez2448@gmail.com](mailto:dhernandez2448@gmail.com)
 * [diegohernandezramirez.dev](https://diegohernandezramirez.dev)
-* [LinkedIn](https://www.linkedin.com/in/diego-hernandez-ramirez-023a00273/)
 
 <!--
 **DiegoHRamirez/DiegoHRamirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
